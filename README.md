@@ -28,3 +28,6 @@ Este projeto foi construído com as seguintes tecnologias:
 - Exibição da pontuação e dicas de categorias.
 - Condições de vitória e derrota, com opção de reiniciar o jogo.
 - Interface dinâmica e responsiva.
+
+## 📸 Layout do Programa
+<img src="LayoutJogoForca.jpg" alt="LayoutJogoForca" width="600">
